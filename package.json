@@ -1,0 +1,28 @@
+{
+  "name": "react-native-loading",
+  "version": "0.0.1",
+  "description": "A lightweight loading for your React Native app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alcat2008/react-native-loading.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "loading",
+    "spinner",
+    "ios",
+    "android"
+  ],
+  "author": "alcat2008",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alcat2008/react-native-loading/issues"
+  },
+  "homepage": "https://github.com/alcat2008/react-native-loading#readme",
+  "dependencies": {}
+}
