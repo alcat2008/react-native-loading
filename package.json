@@ -1,6 +1,6 @@
 {
   "name": "react-native-loading",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A lightweight loading for your React Native app.",
   "main": "index.js",
   "scripts": {
